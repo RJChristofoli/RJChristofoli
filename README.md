@@ -12,7 +12,7 @@
 
 ---
 
-Full Stack Engineer with hands-on experience building scalable web applications, distributed systems, and computer vision pipelines. I work across the full delivery lifecycle — from architecture decisions and API design to cloud deployment and system observability. Currently deepening expertise in event-driven architectures with Kafka, multi-tenant SaaS platforms, and real-time ML inference pipelines using YOLO.
+Full Stack Engineer with hands-on experience building scalable web applications, distributed systems, and computer vision pipelines. I work across the full delivery lifecycle — from architecture decisions and API design to cloud deployment and system observability. Currently deepening expertise in event-driven architectures with Kafka, multi-tenant SaaS platforms, and real-time ML inference pipelines using YOLO and PyTorch.
 
 ---
 
@@ -21,20 +21,20 @@ Full Stack Engineer with hands-on experience building scalable web applications,
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp" />
 </p>
 
-`TypeScript` `JavaScript` `Python 3.10+` `C++`
+`Python 3.10+` `TypeScript` `JavaScript` `C++`
 
 ---
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,redux" />
 </p>
 
-`React 18` `Next.js 15` `Angular` `Tailwind CSS` `Bootstrap`  
+`React 18` `Next.js 15` `Angular` `Tailwind CSS` `Bootstrap`
 `Redux Toolkit` `TanStack Query` `Radix UI`
 
 ---
@@ -42,12 +42,12 @@ Full Stack Engineer with hands-on experience building scalable web applications,
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nestjs" />
 </p>
 
-`NestJS` `Django` `Django REST Framework` `FastAPI`  
-`SimpleJWT` `drf-spectacular` `django-tenants`  
-`RESTful API Design` `Microservices Architecture` `gRPC`  
+`Django` `Django REST Framework` `FastAPI` `NestJS`
+`SimpleJWT` `drf-spectacular` `django-tenants`
+`RESTful API Design` `Microservices Architecture` `gRPC`
 `Multi-Tenant SaaS Architecture`
 
 ---
@@ -68,7 +68,7 @@ Full Stack Engineer with hands-on experience building scalable web applications,
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
 </p>
 
-`PyTorch` `OpenCV` `MediaPipe` `Ultralytics YOLO (v8 / v11)`  
+`PyTorch` `OpenCV` `MediaPipe` `Ultralytics YOLO (v8 / v11)`
 Object detection · Image segmentation · Pose estimation · Real-time inference pipelines
 
 ---
@@ -101,15 +101,23 @@ Object detection · Image segmentation · Pose estimation · Real-time inference
 
 ### Observability & Monitoring
 
-`Prometheus` `Sentry` `Grafana`  
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry" />
+</p>
+
+`Prometheus` `Grafana` `Sentry`
 Metrics · Error tracking · Alerting · Distributed tracing
 
 ---
 
 ### Quality, Testing & Tooling
 
-`Pytest` `Playwright` `ESLint` `Prettier` `Ruff` `Husky`  
-`MkDocs Material`  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytest,playwright,eslint" />
+</p>
+
+`Pytest` `Playwright` `ESLint` `Prettier` `Ruff` `Husky`
+`MkDocs Material`
 Unit testing · E2E testing · Static analysis · Pre-commit hooks · API documentation
 
 ---
@@ -137,8 +145,8 @@ CI/CD & DevOps Practices        REST API & gRPC Design
 - **Documentation as Code** — living docs with MkDocs Material alongside every service
 - **Continuous Improvement** — code review culture, refactoring as a habit
 
-
 ---
+
 
 ## 📊 GitHub Stats
 
