@@ -1,4 +1,4 @@
-# Hi there, I'm Rafael Janovski Christofoli 👋
+# Hi there, I'm Rafael Christofoli 👋
 
 ## Full Stack Software Engineer
 
@@ -117,16 +117,16 @@ I enjoy building reliable products, solving complex technical challenges, and co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RJChristofoli&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJChristofoli&layout=compact" />
 </p>
 
 ---
 
 ## 🌎 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/RJChristofoli
+- LinkedIn: https://www.linkedin.com/in/rafael-christofoli-78466229b/
+- Email: rafajanochris@gmail.com / rafajanochris@hotmail.com
 
 ---
